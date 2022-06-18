@@ -1,0 +1,13 @@
+--atlas -f rgba8 -z auto
+webcam.png
+microphone.png
+computer.png
+connection.png
+valid.png
+disabled.png
+wrong.png
+button_red.png
+button_green.png
+button_blue.png
+button_gray.png
+instructions.png

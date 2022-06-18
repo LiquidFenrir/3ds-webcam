@@ -1,0 +1,6 @@
+.vscode
+build
+romfs/gfx
+*.3dsx
+*.smdh
+*.elf
